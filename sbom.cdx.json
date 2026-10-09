@@ -1,0 +1,38 @@
+{
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.5",
+  "serialNumber": "urn:uuid:f51db6f1-62f3-5fbc-a0e7-31d29f175004",
+  "version": 1,
+  "metadata": {
+    "timestamp": "2026-10-05T17:02:23Z",
+    "component": {
+      "type": "application",
+      "name": "OPENESTATE_PHP_EXPORT",
+      "version": "0aaaaa6132ac",
+      "bom-ref": "pkg:generic/anticloud/OPENESTATE_PHP_EXPORT@0aaaaa6132ac",
+      "purl": "pkg:generic/anticloud/OPENESTATE_PHP_EXPORT@0aaaaa6132ac",
+      "licenses": [
+        {
+          "license": {
+            "id": "Apache-2.0"
+          }
+        }
+      ]
+    },
+    "properties": [
+      {
+        "name": "anticloud:source-commit",
+        "value": "0aaaaa6132ac199ab12cdc680f91f6ae4c663711"
+      },
+      {
+        "name": "anticloud:source-url",
+        "value": "https://github.com/OpenEstate/OpenEstate-PHP-Export"
+      },
+      {
+        "name": "anticloud:tier",
+        "value": "tier-agent"
+      }
+    ]
+  },
+  "components": []
+}
